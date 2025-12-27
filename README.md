@@ -11,11 +11,8 @@ Hey, I’m a Software developer who enjoys working on small ideas and turning th
 ![](https://github-readme-stats.vercel.app/api?username=HeyVikas5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HeyVikas5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyVikas5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🧠 LeetCode Stats
 ![](https://leetcard.jacoblin.cool/vikas_15?theme=dark&font=Karma)
 
-## 🟩 LeetCode Activity
-![](https://leetcard.jacoblin.cool/vikas_15?theme=dark&ext=heatmap)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
